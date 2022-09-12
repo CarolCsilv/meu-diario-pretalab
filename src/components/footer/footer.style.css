@@ -1,0 +1,7 @@
+.footer {
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  background-color: #724796;
+  color:azure
+}

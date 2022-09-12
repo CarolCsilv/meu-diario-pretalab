@@ -1,0 +1,59 @@
+.bio{
+  display: flex;
+  width: 55%;
+  height: 500px;
+  padding-bottom: 32px;
+  padding-top: 32px;
+  padding-right: 20px;
+  margin-top: 20px;  
+  margin-right: 20px;
+  background-color: azure;   
+  justify-content:center;
+  flex-direction: row;  
+  color:rgb(9, 9, 9)
+    
+  
+}
+
+.apresentacao{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 350; 
+  
+  color: rgb(232, 13, 130);
+  display: flex;
+  width: 50%;
+   
+  justify-content:center;
+  justify-items: center;
+  display: flex;
+  margin-left: 75%;
+  
+  padding-bottom: 50px;
+  padding-right: 30px;
+  padding-left: 60px;
+  
+  
+
+}
+.gif-perfil{
+  width: 45vh;
+  
+  justify-content:center;
+  justify-items: center;
+ 
+  
+  
+
+}
+
+.texto-bio{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 200; 
+  display: flex;
+  width: 80%;  
+  margin-top: 32px;
+  margin-right: 32px;
+  justify-content:center;
+  flex-direction: row;  
+  color: rgb(109, 85, 110)
+}
